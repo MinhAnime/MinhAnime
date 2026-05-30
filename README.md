@@ -22,9 +22,10 @@
 ## About Me
 
 - 🔭 I am currently learning and building backend systems.
-- 🌱 I am interested in Java, Spring Boot, Go, Python, Django, Docker, Linux, and DevOps.
-- 💻 I like working with web backend, microservices, databases, and server deployment.
-- 🎯 My goal is to become a strong backend/cloud developer.
+- 🌱 I am interested in Java, Spring Boot, Go, Python, Django, Docker, Linux, DevOps, and Android development.
+- 📱 I have experience building Android apps with Java, XML, MVVM, Firebase, and Data Binding.
+- 💻 I like working with backend systems, microservices, databases, server deployment, and mobile apps.
+- 🎯 My goal is to become a strong backend/cloud developer with full-stack and mobile development skills.
 
 ---
 
@@ -33,7 +34,7 @@
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,go,python,cpp,c,js,ts" />
+  <img src="https://skillicons.dev/icons?i=java,go,python,cpp,c,js,ts,kotlin" />
 </p>
 
 ### Backend & Frameworks
@@ -42,16 +43,45 @@
   <img src="https://skillicons.dev/icons?i=spring,django,nodejs,express" />
 </p>
 
-### Database & Tools
+### Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,rabbitmq,docker,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,firebase" />
+</p>
+
+- Android Java
+- XML Layout
+- MVVM Architecture
+- Firebase Authentication
+- Firebase Realtime Database
+- Firebase Storage
+- Data Binding
+- ViewModel / LiveData
+
+### Database & Message Queue
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,rabbitmq" />
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx,cloudflare" />
 </p>
 
 ### Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinhAnime&theme=dracula" alt="GitHub Streak" />
 </p>
 
 ---
