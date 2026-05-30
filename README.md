@@ -4,10 +4,16 @@
 
 <p align="center">
   <a href="https://github.com/MinhAnime">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MinhAnime&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Minh's GitHub stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinhAnime&theme=dracula" alt="GitHub Profile Summary" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MinhAnime">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MinhAnime&theme=dracula" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/MinhAnime">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhAnime&langs_count=5&theme=dracula&layout=compact" alt="Top Languages" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinhAnime&theme=dracula" alt="Top Languages" />
   </a>
 </p>
 
@@ -46,14 +52,6 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinhAnime&theme=dracula" alt="GitHub Streak" />
 </p>
 
 ---
